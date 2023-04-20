@@ -1,11 +1,15 @@
 html {
     font-size: 10px;
     font-family: "Open Sans", sans-serif;
-  }
-  
-  p,
-  li {
+    }  
+p,
+li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
-  }
+    }
+h1 {
+    color: #026773;
+    }
+
+body {background-color: #F2E3D5;}
